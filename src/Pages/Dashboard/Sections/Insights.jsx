@@ -1,6 +1,6 @@
 import React from "react";
 import Frontend from "../../../assets/Frontend.png";
-import ui from "../../../assets/Ui.png";
+import ui from "../../../assets/UI.png";
 import React1 from "../../../assets/React1.png";
 import Watsonx from "../../../assets/Watsonx.png";
 import WebCrumbs from "../../../assets/WebCrumbs.png";

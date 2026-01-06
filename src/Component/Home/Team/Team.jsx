@@ -1,5 +1,5 @@
 import React from "react";
-import Leader from "../../../assets/Leader.png";
+import Leader from "../../../assets/leader.png";
 import Siddhart from "../../../assets/Siddhart.png";
 import Kritika from "../../../assets/Kritika.png";
 import Praveen from "../../../assets/Praveen.png";
